@@ -31,7 +31,7 @@ class ViewController: UIViewController {
     }
 
     func populateValues() {
-        textLabel.text = "Good Morning"
+        textLabel.text = NSLocalizedString("GOOD_MORNING", comment: "Good Morning")
         numberLabel.text = numberFormatter.stringFromNumber(9999999.999)
         currencyLabel.text = currencyFormatter.stringFromNumber(50000)
         dateLabel.text = dateFormatter.stringFromDate(NSDate())
