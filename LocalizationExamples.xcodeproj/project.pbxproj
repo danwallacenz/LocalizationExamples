@@ -38,6 +38,8 @@
 		CB5A9F3A1A78DACF0097B4EE /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		CB5A9F3B1A78DACF0097B4EE /* LocalizationExamplesTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LocalizationExamplesTests.swift; sourceTree = "<group>"; };
 		CB5A9F451A78DDF00097B4EE /* hello.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = hello.png; sourceTree = "<group>"; };
+		CB5A9F471A78DFC40097B4EE /* de */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = de; path = de.lproj/Main.strings; sourceTree = "<group>"; };
+		CB5A9F481A78DFC40097B4EE /* de */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = de; path = de.lproj/LaunchScreen.strings; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -244,6 +246,7 @@
 			isa = PBXVariantGroup;
 			children = (
 				CB5A9F2A1A78DACF0097B4EE /* Base */,
+				CB5A9F471A78DFC40097B4EE /* de */,
 			);
 			name = Main.storyboard;
 			sourceTree = "<group>";
@@ -252,6 +255,7 @@
 			isa = PBXVariantGroup;
 			children = (
 				CB5A9F2F1A78DACF0097B4EE /* Base */,
+				CB5A9F481A78DFC40097B4EE /* de */,
 			);
 			name = LaunchScreen.xib;
 			sourceTree = "<group>";
