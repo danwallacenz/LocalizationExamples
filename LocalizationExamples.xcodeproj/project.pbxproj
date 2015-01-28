@@ -13,6 +13,7 @@
 		CB5A9F2D1A78DACF0097B4EE /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = CB5A9F2C1A78DACF0097B4EE /* Images.xcassets */; };
 		CB5A9F301A78DACF0097B4EE /* LaunchScreen.xib in Resources */ = {isa = PBXBuildFile; fileRef = CB5A9F2E1A78DACF0097B4EE /* LaunchScreen.xib */; };
 		CB5A9F3C1A78DACF0097B4EE /* LocalizationExamplesTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = CB5A9F3B1A78DACF0097B4EE /* LocalizationExamplesTests.swift */; };
+		CB5A9F461A78DDF00097B4EE /* hello.png in Resources */ = {isa = PBXBuildFile; fileRef = CB5A9F451A78DDF00097B4EE /* hello.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -36,6 +37,7 @@
 		CB5A9F351A78DACF0097B4EE /* LocalizationExamplesTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = LocalizationExamplesTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		CB5A9F3A1A78DACF0097B4EE /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		CB5A9F3B1A78DACF0097B4EE /* LocalizationExamplesTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LocalizationExamplesTests.swift; sourceTree = "<group>"; };
+		CB5A9F451A78DDF00097B4EE /* hello.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = hello.png; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -77,6 +79,7 @@
 		CB5A9F221A78DACF0097B4EE /* LocalizationExamples */ = {
 			isa = PBXGroup;
 			children = (
+				CB5A9F451A78DDF00097B4EE /* hello.png */,
 				CB5A9F251A78DACF0097B4EE /* AppDelegate.swift */,
 				CB5A9F271A78DACF0097B4EE /* ViewController.swift */,
 				CB5A9F291A78DACF0097B4EE /* Main.storyboard */,
@@ -192,6 +195,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				CB5A9F461A78DDF00097B4EE /* hello.png in Resources */,
 				CB5A9F2B1A78DACF0097B4EE /* Main.storyboard in Resources */,
 				CB5A9F301A78DACF0097B4EE /* LaunchScreen.xib in Resources */,
 				CB5A9F2D1A78DACF0097B4EE /* Images.xcassets in Resources */,
