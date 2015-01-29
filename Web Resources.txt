@@ -1,0 +1,3 @@
+
+Based on:
+http://rshankar.com/internationalization-and-localization-of-apps-in-xcode-6-and-swift/

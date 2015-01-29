@@ -17,6 +17,7 @@
 		CB5A9F4F1A78E25A0097B4EE /* hello.png in Resources */ = {isa = PBXBuildFile; fileRef = CB5A9F511A78E25A0097B4EE /* hello.png */; };
 		CB5A9F551A79CFAF0097B4EE /* InfoPlist.strings in Resources */ = {isa = PBXBuildFile; fileRef = CB5A9F571A79CFAF0097B4EE /* InfoPlist.strings */; };
 		CB5A9F5A1A79CFAF0097B4EE /* InfoPlist.strings in Resources */ = {isa = PBXBuildFile; fileRef = CB5A9F5C1A79CFAF0097B4EE /* InfoPlist.strings */; };
+		CB5A9F5E1A79D1EF0097B4EE /* Web Resources.txt in Resources */ = {isa = PBXBuildFile; fileRef = CB5A9F5D1A79D1EF0097B4EE /* Web Resources.txt */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -48,6 +49,7 @@
 		CB5A9F521A78E25C0097B4EE /* de */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = de; path = de.lproj/hello.png; sourceTree = "<group>"; };
 		CB5A9F561A79CFAF0097B4EE /* de */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = de; path = de.lproj/InfoPlist.strings; sourceTree = "<group>"; };
 		CB5A9F5B1A79CFAF0097B4EE /* de */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = de; path = de.lproj/InfoPlist.strings; sourceTree = "<group>"; };
+		CB5A9F5D1A79D1EF0097B4EE /* Web Resources.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = "Web Resources.txt"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -71,6 +73,7 @@
 		CB5A9F171A78DACF0097B4EE = {
 			isa = PBXGroup;
 			children = (
+				CB5A9F5D1A79D1EF0097B4EE /* Web Resources.txt */,
 				CB5A9F4D1A78E13A0097B4EE /* Localizable.strings */,
 				CB5A9F221A78DACF0097B4EE /* LocalizationExamples */,
 				CB5A9F381A78DACF0097B4EE /* LocalizationExamplesTests */,
@@ -211,6 +214,7 @@
 			files = (
 				CB5A9F4B1A78E13A0097B4EE /* Localizable.strings in Resources */,
 				CB5A9F551A79CFAF0097B4EE /* InfoPlist.strings in Resources */,
+				CB5A9F5E1A79D1EF0097B4EE /* Web Resources.txt in Resources */,
 				CB5A9F4F1A78E25A0097B4EE /* hello.png in Resources */,
 				CB5A9F2B1A78DACF0097B4EE /* Main.storyboard in Resources */,
 				CB5A9F301A78DACF0097B4EE /* LaunchScreen.xib in Resources */,
