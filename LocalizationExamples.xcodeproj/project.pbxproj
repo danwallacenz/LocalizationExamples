@@ -15,6 +15,8 @@
 		CB5A9F3C1A78DACF0097B4EE /* LocalizationExamplesTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = CB5A9F3B1A78DACF0097B4EE /* LocalizationExamplesTests.swift */; };
 		CB5A9F4B1A78E13A0097B4EE /* Localizable.strings in Resources */ = {isa = PBXBuildFile; fileRef = CB5A9F4D1A78E13A0097B4EE /* Localizable.strings */; };
 		CB5A9F4F1A78E25A0097B4EE /* hello.png in Resources */ = {isa = PBXBuildFile; fileRef = CB5A9F511A78E25A0097B4EE /* hello.png */; };
+		CB5A9F551A79CFAF0097B4EE /* InfoPlist.strings in Resources */ = {isa = PBXBuildFile; fileRef = CB5A9F571A79CFAF0097B4EE /* InfoPlist.strings */; };
+		CB5A9F5A1A79CFAF0097B4EE /* InfoPlist.strings in Resources */ = {isa = PBXBuildFile; fileRef = CB5A9F5C1A79CFAF0097B4EE /* InfoPlist.strings */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -44,6 +46,8 @@
 		CB5A9F4E1A78E13C0097B4EE /* de */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = de; path = de.lproj/Localizable.strings; sourceTree = "<group>"; };
 		CB5A9F501A78E25A0097B4EE /* Base */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = Base; path = Base.lproj/hello.png; sourceTree = "<group>"; };
 		CB5A9F521A78E25C0097B4EE /* de */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = de; path = de.lproj/hello.png; sourceTree = "<group>"; };
+		CB5A9F561A79CFAF0097B4EE /* de */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = de; path = de.lproj/InfoPlist.strings; sourceTree = "<group>"; };
+		CB5A9F5B1A79CFAF0097B4EE /* de */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = de; path = de.lproj/InfoPlist.strings; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -100,6 +104,7 @@
 		CB5A9F231A78DACF0097B4EE /* Supporting Files */ = {
 			isa = PBXGroup;
 			children = (
+				CB5A9F571A79CFAF0097B4EE /* InfoPlist.strings */,
 				CB5A9F241A78DACF0097B4EE /* Info.plist */,
 			);
 			name = "Supporting Files";
@@ -117,6 +122,7 @@
 		CB5A9F391A78DACF0097B4EE /* Supporting Files */ = {
 			isa = PBXGroup;
 			children = (
+				CB5A9F5C1A79CFAF0097B4EE /* InfoPlist.strings */,
 				CB5A9F3A1A78DACF0097B4EE /* Info.plist */,
 			);
 			name = "Supporting Files";
@@ -204,6 +210,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				CB5A9F4B1A78E13A0097B4EE /* Localizable.strings in Resources */,
+				CB5A9F551A79CFAF0097B4EE /* InfoPlist.strings in Resources */,
 				CB5A9F4F1A78E25A0097B4EE /* hello.png in Resources */,
 				CB5A9F2B1A78DACF0097B4EE /* Main.storyboard in Resources */,
 				CB5A9F301A78DACF0097B4EE /* LaunchScreen.xib in Resources */,
@@ -215,6 +222,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				CB5A9F5A1A79CFAF0097B4EE /* InfoPlist.strings in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -283,6 +291,22 @@
 				CB5A9F521A78E25C0097B4EE /* de */,
 			);
 			name = hello.png;
+			sourceTree = "<group>";
+		};
+		CB5A9F571A79CFAF0097B4EE /* InfoPlist.strings */ = {
+			isa = PBXVariantGroup;
+			children = (
+				CB5A9F561A79CFAF0097B4EE /* de */,
+			);
+			name = InfoPlist.strings;
+			sourceTree = "<group>";
+		};
+		CB5A9F5C1A79CFAF0097B4EE /* InfoPlist.strings */ = {
+			isa = PBXVariantGroup;
+			children = (
+				CB5A9F5B1A79CFAF0097B4EE /* de */,
+			);
+			name = InfoPlist.strings;
 			sourceTree = "<group>";
 		};
 /* End PBXVariantGroup section */
@@ -440,6 +464,7 @@
 				CB5A9F411A78DACF0097B4EE /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		CB5A9F421A78DACF0097B4EE /* Build configuration list for PBXNativeTarget "LocalizationExamplesTests" */ = {
 			isa = XCConfigurationList;
@@ -448,6 +473,7 @@
 				CB5A9F441A78DACF0097B4EE /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};

@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="1.2" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 http://docs.oasis-open.org/xliff/v1.2/os/xliff-core-1.2-strict.xsd">
+    <file original="LocalizationExamples/Base.lproj/LaunchScreen.xib" source-language="en" datatype="plaintext" target-language="de">
+        <header>
+            <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="6.1.1" build-num="6A2008a"></tool>
+        </header>
+        <body>
+            <trans-unit id="8ie-xW-0ye.text">
+                <source>  Copyright (c) 2015 nz.co.danielw. All rights reserved.</source>
+                <target>  Copyright (c) 2015 nz.co.danielw. All rights reserved.</target>
+                <note>Class = "IBUILabel"; text = "  Copyright (c) 2015 nz.co.danielw. All rights reserved."; ObjectID = "8ie-xW-0ye";</note>
+            </trans-unit>
+            <trans-unit id="kId-c2-rCX.text">
+                <source>LocalizationExamples</source>
+                <target>LocalizationExamples</target>
+                <note>Class = "IBUILabel"; text = "LocalizationExamples"; ObjectID = "kId-c2-rCX";</note>
+            </trans-unit>
+        </body>
+    </file>
+    <file original="LocalizationExamples/Base.lproj/Main.storyboard" source-language="en" datatype="plaintext" target-language="de">
+        <header>
+            <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="6.1.1" build-num="6A2008a"></tool>
+        </header>
+        <body>
+            <trans-unit id="5Rr-E6-D4X.text">
+                <source>Image:</source>
+                <target>BildX:</target>
+                <note>Class = "IBUILabel"; text = "Image:"; ObjectID = "5Rr-E6-D4X";</note>
+            </trans-unit>
+            <trans-unit id="5dB-Pr-MK5.text">
+                <source>date</source>
+                <target>date</target>
+                <note>Class = "IBUILabel"; text = "date"; ObjectID = "5dB-Pr-MK5";</note>
+            </trans-unit>
+            <trans-unit id="LZB-1k-Ql0.text">
+                <source>Number:</source>
+                <target>AnzahlX:</target>
+                <note>Class = "IBUILabel"; text = "Number:"; ObjectID = "LZB-1k-Ql0";</note>
+            </trans-unit>
+            <trans-unit id="Ln9-L0-CIr.text">
+                <source>text</source>
+                <target>text</target>
+                <note>Class = "IBUILabel"; text = "text"; ObjectID = "Ln9-L0-CIr";</note>
+            </trans-unit>
+            <trans-unit id="PCX-Ko-I9l.text">
+                <source>Date:</source>
+                <target>DatumX:</target>
+                <note>Class = "IBUILabel"; text = "Date:"; ObjectID = "PCX-Ko-I9l";</note>
+            </trans-unit>
+            <trans-unit id="VOf-rP-YvT.text">
+                <source>Currency:</source>
+                <target>WährungX:</target>
+                <note>Class = "IBUILabel"; text = "Currency:"; ObjectID = "VOf-rP-YvT";</note>
+            </trans-unit>
+            <trans-unit id="by7-V4-89P.text">
+                <source>Text:</source>
+                <target>Text:</target>
+                <note>Class = "IBUILabel"; text = "Text:"; ObjectID = "by7-V4-89P";</note>
+            </trans-unit>
+            <trans-unit id="dZg-Av-cGx.text">
+                <source>currency</source>
+                <target>currency</target>
+                <note>Class = "IBUILabel"; text = "currency"; ObjectID = "dZg-Av-cGx";</note>
+            </trans-unit>
+            <trans-unit id="kee-wJ-ET9.text">
+                <source>number</source>
+                <target>number</target>
+                <note>Class = "IBUILabel"; text = "number"; ObjectID = "kee-wJ-ET9";</note>
+            </trans-unit>
+        </body>
+    </file>
+    <file original="LocalizationExamples/Info.plist" source-language="en" datatype="plaintext" target-language="de">
+        <header>
+            <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="6.1.1" build-num="6A2008a"></tool>
+        </header>
+        <body>
+            <trans-unit id="CFBundleName">
+                <source>$(PRODUCT_NAME)</source>
+            </trans-unit>
+            <trans-unit id="CFBundleShortVersionString">
+                <source>1.0</source>
+            </trans-unit>
+        </body>
+    </file>
+    <file original="LocalizationExamples/Localizable.strings" source-language="en" datatype="plaintext" target-language="de">
+        <header>
+            <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="6.1.1" build-num="6A2008a"></tool>
+        </header>
+        <body>
+            <trans-unit id="GOOD_MORNING">
+                <source>GOOD_MORNING</source>
+                <target>Guten MorgenX</target>
+                <note>Good Morning - comment</note>
+            </trans-unit>
+        </body>
+    </file>
+    <file original="LocalizationExamplesTests/Info.plist" source-language="en" datatype="plaintext" target-language="de">
+        <header>
+            <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="6.1.1" build-num="6A2008a"></tool>
+        </header>
+        <body>
+            <trans-unit id="CFBundleName">
+                <source>$(PRODUCT_NAME)</source>
+            </trans-unit>
+            <trans-unit id="CFBundleShortVersionString">
+                <source>1.0</source>
+            </trans-unit>
+        </body>
+    </file>
+</xliff>
